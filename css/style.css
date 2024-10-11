@@ -137,6 +137,7 @@ img {
         justify-content: center;
         align-items: center;
     }
+
 }
 
 @media screen and (max-width:768px) {
@@ -144,7 +145,6 @@ img {
     .lessons,
     .steps,
     .why-us {
-        display: flex;
         justify-content: space-between;
         align-items: stretch;
     }
@@ -155,6 +155,7 @@ img {
         flex-flow: column wrap;
         justify-content: center;
         align-items: center;
+        gap: 30px;
     }
 
     .row .col  {
