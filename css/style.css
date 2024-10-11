@@ -161,4 +161,15 @@ img {
     .row .col  {
         width: 100%;
     }
+    .lessons{
+        padding: 20px 0px;
+    }
+    .steps{
+        margin: 0;
+    }
+    .why-us{
+        padding: 20px 0px;
+        background-color: black;
+        margin:0;
+    }
 }
